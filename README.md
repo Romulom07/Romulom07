@@ -2,8 +2,8 @@
 
 Soy Romulo, tengo 21 años, venezolano,🌱 actualmente aprendiendo desarrollo web enfocandome en PHP.
 
-🔭 Estoy interesado en aprender y trabajar con laravel.
-⚡ Me gustaria aprender más sobre javascript.
+-🔭 Estoy interesado en aprender y trabajar con laravel.
+-⚡ Me gustaria aprender más sobre javascript.
 
 <!--
 **Romulom07/Romulom07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
