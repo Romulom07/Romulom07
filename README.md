@@ -3,6 +3,7 @@
 Soy Romulo, tengo 21 años, venezolano,🌱 actualmente aprendiendo desarrollo web enfocandome en PHP.
 
 -🔭 Estoy interesado en aprender y trabajar con laravel.
+
 -⚡ Me gustaria aprender más sobre javascript.
 
 <!--
